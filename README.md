@@ -21,16 +21,14 @@ Cómo ejecutar el proyecto:
 1.Clonar el repositorio
 2.Abrir en Visual Studio 2019
 3.Configurar la cadena de conexión en Web.config
-4.Ejecutar la base de datos con los script SQL en el orden que estan(1,2,3)
+4.Ejecutar la base de datos con el script SQL 
 5.Ejecutar el proyecto
 
 Base de datos
 
 El script de la base de datos se encuentra en la carpeta:
 
-/Database/1.sql
-/Database/2.sql
-/Database/3.sql
+/Database/InventarioDB.sql
 
 Autor:
 Jhon Santos
